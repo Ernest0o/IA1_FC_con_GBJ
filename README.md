@@ -1,5 +1,5 @@
 # IA1_FC_con_GBJ
-Forward Checking with Graph Back Jumping techniques for the Airline Crew Scheduling Problem
+Forward Checking + Graph Back Jumping techniques for solving the Airline Crew Scheduling Problem
 
 Once compiled, execute from the Windows terminal with the command:
 
